@@ -1,0 +1,45 @@
+body{
+	background-image: url(https://static.pexels.com/photos/257360/pexels-photo-257360.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+    text-align: center;
+}
+
+.lobsterFormat{
+	font-family: Arial, Helvetica;
+    font-size: 50px;
+    
+}
+
+fieldset{
+	border:3px solid black;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;	
+    border-radius:8px;	
+}
+
+.ip, .userdetails, .buttons{
+	font-size: 20px;
+	font-family: Arial, Helvetica;
+}
+
+input, textarea, select{
+	border: 0;
+	background: light green;
+}
+
+select{
+	color: black;
+	size: 30px;
+}
+
+.btns{
+	font-size: 30px;
+	font-family: 'bree serif';
+	color: white;
+}
+
+.btns:hover{
+	cursor: pointer;
+}
